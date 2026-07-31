@@ -1,0 +1,14 @@
+generated: '2026-07-20'
+method: searched
+probe: true
+source: https://trust.material.security/
+url: https://trust.material.security/
+certifications:
+- SOC 2
+- GDPR
+evidence:
+- source: https://trust.material.security/
+  keywords:
+  - soc 2
+  - trust center
+  - gdpr
