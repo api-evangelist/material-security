@@ -40,6 +40,16 @@ tags:
 - Identity
 - Detection and Response
 - Google Workspace
+- Microsoft-365
+tags_raw:
+- Company
+- Security
+- Email Security
+- Cloud Workspace Security
+- Data Security
+- Identity
+- Detection and Response
+- Google Workspace
 - Microsoft 365
 apis: []
 maintainers:
