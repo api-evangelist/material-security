@@ -51,7 +51,7 @@ tags:
 - Identity
 - Detection and Response
 - Google Workspace
-- Microsoft-365
+- Microsoft 365
 tags_raw:
 - Company
 - Security
@@ -62,6 +62,7 @@ tags_raw:
 - Detection and Response
 - Google Workspace
 - Microsoft 365
+- Microsoft-365
 apis: []
 maintainers:
 - FN: Kin Lane
